@@ -2,7 +2,7 @@
 import databutton as db
 import streamlit as st
 import openai
-from my_pdf_lib import get_index_for_pdf
+from brain import get_index_for_pdf
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 import os
