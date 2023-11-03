@@ -10,6 +10,7 @@ RAG enabled Chatbots using [LangChain](https://www.langchain.com) and [Databutto
 Oversimplified explaination : (**Retrieval**) Fetch the top N similar contexts via similarity search from the indexed PDF files -> concatanate those to the prompt (**Prompt Augumentation**) -> Pass it to the LLM -> which further generates response (**Generation**) like any LLM does. **More in the blog!**
 
 Blog Post - [Here](https://medium.com/databutton/why-your-next-ai-product-needs-rag-implemented-in-it-9ee22f9770c8)
+YouTube video - [Here][https://youtu.be/Yh1GEWqgkt0]
 
 To get started quickly, you can use the “Chat with PDF” [template](https://databutton.com/new?templateId=pt-x2Rh7dEYwIuCxXaR) within Databutton 🚀
 
